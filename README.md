@@ -1,0 +1,1 @@
+# Django-React_Online_shop_basic_realization
